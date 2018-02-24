@@ -40,3 +40,9 @@ h5 {
 p {
   font-size: 14px
 }
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
